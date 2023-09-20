@@ -1,6 +1,6 @@
 # Arduino_Course
 Dealing With Arduino and Electronics By making Various Projects.
-Main Projects : 
+Main Projects included with code and video: 
 1- Controlling RC car : ( Using Blutooth , Avoiding Obstacles , Line follower ) .  
 2- using 7 segments : ( Display numbers from 0-9 - Display the number which you send by the keyboard ). 
 3- Using lcd , pushbutton and 2 leds make a state machine system at which when you push
